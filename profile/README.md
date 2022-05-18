@@ -1,4 +1,4 @@
-## Hi there, Serving Telegram with awesome services, scrapping, checker..👋
+## Hi there 🙂, Serving Telegram with awesome services, scrapping, checker..
 
 <!--
 
